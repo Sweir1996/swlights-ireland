@@ -127,8 +127,8 @@ All lights are made to order for:
 \## 🌐 Live Website
 
 
-
-Once GitHub Pages is enabled, the live site will appear here:
+[
+Once GitHub Pages is enabled, the live site will appear here:](https://github.com/Sweir1996/swlights-ireland.git)
 
 
 
@@ -155,6 +155,7 @@ Once GitHub Pages is enabled, the live site will appear here:
 
 
 © SW.LIGHTS — Handmade Irish Lighting
+
 
 
 
